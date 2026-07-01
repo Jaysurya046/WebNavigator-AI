@@ -20,8 +20,8 @@
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/CursorTouch/Web-Navigator.git
-cd Web-Navigator
+git clone https://github.com/Jaysurya046/WebNavigator-AI.git
+cd WebNavigator-AI
 ```
 
 **Install dependencies:**
