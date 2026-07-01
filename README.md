@@ -70,24 +70,6 @@ Execute the following command to start the agent:
 python app.py
 ```
 
-## 🎥Demos
-
-**Prompt:** I want to know the price details of the RTX 4060 laptop gpu from varrious sellers from amazon.in
-
-https://github.com/user-attachments/assets/c729dda9-0ecc-4b07-9113-62fddccca52f
-
-**Prompt:** Make a twitter post about AI on X
-
-https://github.com/user-attachments/assets/126ef697-f506-4630-9a0a-1dbbfead9f7e
-
-**Prompt:** Can you play the trailer of GTA 6 on youtube
-
-https://github.com/user-attachments/assets/7abde708-7fe0-46f8-96ac-16124aaf2ef4
-
-**Prompt:** Can you go to my github account and visit the Windows MCP
-
-https://github.com/user-attachments/assets/cb8ad60c-0609-42e3-9fb9-584ad77c4e3a
-
 
 ## 📒References
 

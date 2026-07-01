@@ -38,8 +38,8 @@ WebAgent requires:
 2. Clone your fork locally:
 
 ```bash
-git clone https://github.com/CursorTouch/Web-Agent.git
-cd web-agent
+git clone https://github.com/Jaysurya046/WebNavigator-AI.git
+cd WebNavigator-AI
 ```
 
 3. Install the package in development mode:

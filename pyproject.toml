@@ -1,7 +1,7 @@
 [project]
-name = "Web-Navigator"
+name = "WebNavigator-AI"
 version = "0.1.0"
-description = "Web-Navigator is an ai agent for web browsing and scraping websites."
+description = "The WebNavigator-AI is designed to automate the process of gathering information from the internet, such as to navigate websites, perform searches, and retrieve data."
 readme = "README.md"
 license = { file = "LICENSE" }
 requires-python = ">=3.13"

@@ -7,8 +7,14 @@ import os
 load_dotenv()
 
 api_key = os.getenv('GOOGLE_API_KEY')
+
 browser_instance_dir = os.getenv('BROWSER_INSTANCE_DIR')
+if not browser_instance_dir:
+    browser_instance_dir = None
+
 user_data_dir = os.getenv('USER_DATA_DIR')
+if not user_data_dir:
+    user_data_dir = ""
 
 llm=ChatGemini(model='gemini-2.5-flash-lite',api_key=api_key,temperature=0)
 config=BrowserConfig(browser='edge',browser_instance_dir=browser_instance_dir,user_data_dir=user_data_dir,headless=False)
