@@ -102,19 +102,6 @@ https://github.com/user-attachments/assets/7abde708-7fe0-46f8-96ac-16124aaf2ef4
 
 https://github.com/user-attachments/assets/cb8ad60c-0609-42e3-9fb9-584ad77c4e3a
 
----
-
-## 🪪License
-
-This project is licensed under MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝Contributing
-
-Contributions are welcome! Please see [CONTRIBUTING](CONTRIBUTING.md) for setup instructions and development guidelines.
-
-Made with ❤️ by [Jeomon George](https://github.com/Jeomon), [Muhammad Yaseen](https://github.com/mhmdyaseen)
-
----
 
 ## 📒References
 
